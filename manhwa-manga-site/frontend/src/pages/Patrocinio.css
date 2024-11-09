@@ -1,0 +1,15 @@
+/* src/pages/Patrocinio.css */
+.patrocinio {
+    padding: 20px;
+    background-color: #f4f4f4;
+  }
+  
+  .patrocinio h1 {
+    color: #333;
+  }
+  
+  .patrocinio p {
+    color: #555;
+    font-size: 18px;
+  }
+  
